@@ -1,6 +1,6 @@
 # Bosh-lite + Turbulence
 
-This repository provides the fasts way to setup [bosh-lite](https://github.com/cloudfoundry/bosh-lite.git) with [turbulence](https://github.com/cppforlife/turbulence-release).
+This repository provides the fastest way to setup [bosh-lite](https://github.com/cloudfoundry/bosh-lite.git) with [turbulence](https://github.com/cppforlife/turbulence-release).
 
 ## Getting started
 ```
