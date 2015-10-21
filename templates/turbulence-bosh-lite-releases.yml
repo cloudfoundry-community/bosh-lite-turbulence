@@ -1,0 +1,12 @@
+releases:
+- name: bosh-warden-cpi
+  url: file:///vagrant/tmp/bosh-warden-cpi-release.tgz
+- name: bosh
+  url: file:///vagrant/tmp/bosh-release.tgz
+- name: garden-linux
+  url: file:///vagrant/tmp/garden-linux-release.tgz
+- name: turbulence
+  url: file:///vagrant/tmp/turbulence-release.tgz
+  version: 0.4
+
+

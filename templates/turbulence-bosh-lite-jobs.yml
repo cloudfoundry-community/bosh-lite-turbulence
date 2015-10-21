@@ -1,0 +1,7 @@
+jobs:
+- (( inline ))  
+- name: bosh
+  networks:
+  - (( replace ))
+  - name: default
+
